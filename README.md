@@ -1,7 +1,7 @@
 # Edufy-Mern-Frontend
 
 > Edyfy is a Edtech website. Where a "Instructor" can upload his courses and a "Student" can watch his lectures by paying him. This website is built using MERN (MongoDB, Express, React, NodeJs) Technologies. Frontend/UI is base on React, Redux, Tailwind, CSS, Javascript and HTML.
-study-notion-sunny8080.shop)
+
 
 ## Usage
 
